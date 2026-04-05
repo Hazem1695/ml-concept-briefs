@@ -21,7 +21,8 @@ Each topic is provided as a **standalone PDF brief**.
 
 Topics include:
 
-1- Independent vs Dependent Variables     
+1- Independent vs Dependent Variables    
+2- Encoding Categorical — One Hot Encoding
 
 More topics will be added over time.
 
