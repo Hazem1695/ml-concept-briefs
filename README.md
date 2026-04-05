@@ -9,8 +9,11 @@ This repository focuses on simplifying core ML ideas into structured, easy-to-di
 ## Purpose
 
 The goal is to:
+
 1- Break down important ML concepts clearly  
+
 2- Build strong intuition  
+
 3- Provide quick references without unnecessary complexity  
 
 ---
@@ -41,8 +44,11 @@ Code implementations and practical applications will be shared in a separate rep
 Understanding Machine Learning is not about memorizing steps.
 
 It’s about:
+
 1- Knowing *why* things are done  
+
 2- Avoiding common misunderstandings  
+
 3- Building correct mental models  
 
 ---
