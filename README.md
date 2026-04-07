@@ -26,6 +26,7 @@ Topics include:
 
 1- Independent vs Dependent Variables    
 2- Encoding Categorical — One Hot Encoding
+3- Common questions in Data Preprocessing
 
 More topics will be added over time.
 
