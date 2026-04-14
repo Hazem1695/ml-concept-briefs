@@ -30,6 +30,8 @@ Topics include:
 
 3- Common questions in Data Preprocessing
 
+4- The Dummy Variable Trap in Linear Regression
+
 More topics will be added over time.
 
 ---
