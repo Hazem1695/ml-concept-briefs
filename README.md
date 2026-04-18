@@ -32,6 +32,8 @@ Topics include:
 
 4- The Dummy Variable Trap in Linear Regression
 
+5- Practical Machine Learning Insights — Regression Tips
+
 More topics will be added over time.
 
 ---
@@ -41,6 +43,8 @@ More topics will be added over time.
 This repository is intentionally focused on **conceptual clarity only**.
 
 Code implementations and practical applications will be shared in a separate repository.
+
+[Project Repository Link](https://github.com/Hazem1695/Machine-Learning-Regression-Projects)
 
 ---
 
