@@ -34,6 +34,8 @@ Topics include:
 
 5- Practical Machine Learning Insights — Regression Tips
 
+6- When is Feature Scaling Necessary in Regression Models
+
 More topics will be added over time.
 
 ---
