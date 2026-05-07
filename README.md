@@ -24,17 +24,13 @@ Each topic is provided as a **standalone PDF brief**.
 
 Topics include:
 
-1- Independent vs Dependent Variables    
-
-2- Encoding Categorical — One Hot Encoding
-
-3- Common questions in Data Preprocessing
-
-4- The Dummy Variable Trap in Linear Regression
-
-5- Practical Machine Learning Insights — Regression Tips
-
-6- When is Feature Scaling Necessary in Regression Models
+1. Independent vs Dependent Variables    
+2. Encoding Categorical — One Hot Encoding
+3. Common questions in Data Preprocessing
+4. The Dummy Variable Trap in Linear Regression
+5. Practical Machine Learning Insights — Regression Tips
+6. When is Feature Scaling Necessary in Regression Models
+7. Log Transformation in Machine Learning When and Why Should You Use It
 
 More topics will be added over time.
 
