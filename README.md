@@ -31,6 +31,7 @@ Topics include:
 5. Practical Machine Learning Insights — Regression Tips
 6. When is Feature Scaling Necessary in Regression Models
 7. Log Transformation in Machine Learning When and Why Should You Use It
+8. Handling Imbalanced Data in Machine Learning
 
 More topics will be added over time.
 
