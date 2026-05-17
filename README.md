@@ -32,6 +32,7 @@ Topics include:
 6. When is Feature Scaling Necessary in Regression Models
 7. Log Transformation in Machine Learning When and Why Should You Use It
 8. Handling Imbalanced Data in Machine Learning
+9. StandardScaler vs RobustScaler
 
 More topics will be added over time.
 
